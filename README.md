@@ -1,4 +1,13 @@
 # js-mentoring
 
-#Run tests: npm test
-#Run tests with report: npm run test-report
+This is how to run tests:
+* npm
+  ```sh
+  npm test
+  ```
+This is how to run tests with report:
+* npm
+  ```sh
+  npm run test-report
+  ```
+
